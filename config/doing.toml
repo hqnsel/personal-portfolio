@@ -1,19 +1,19 @@
 [[doing]]
-title = "Mobile Apps"
+title = "Growth"
 icon = "./config/assets/icons/mobile.svg"
-text = "Professional development of applications for iOS and Android."
+text = "Conceptualizing ideas and exploring avenues towards 0 to 1."
 
 [[doing]]
-title = "Scripting"
+title = "Automation"
 icon = "./config/assets/icons/code.svg"
-text = "Automation and task scripting using Python to enhance efficiency and productivity."
+text = "Researching and implementing web and mobile automation."
 
 [[doing]]
-title = "UI/UX Designing"
+title = "Content"
 icon = "./config/assets/icons/compass.svg"
-text = "Intuitive and visually appealing user interfaces and user experiences."
+text = "Design and content creation to boost your brand experience."
 
 [[doing]]
-title = "Web Development"
+title = "Startup"
 icon = "./config/assets/icons/laptop-code.svg"
-text = "High-quality development of sites at the professional level."
+text = "Building my own accessible community-sharing micro-SaaS."
