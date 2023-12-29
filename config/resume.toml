@@ -1,32 +1,27 @@
 ############## Education config #################
 #################################################
 [[education]]
-title = "High school of art and design"
-timeline = "2002 — 2004"
-description = "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+title = "Republic Polytechnic, Dip. Mass Comm"
+timeline = "2009 — 2012"
+description = "This was where Advertising, Branding, Copywriting and Design grew on Hansel. Hansel clinched first place for NYDC Restaurant's Advertising & Copywriting competition."
 
 [[education]]
-title = "New york academy of art"
-timeline = "2006 — 2007"
-description = "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis.."
-
-[[education]]
-title = "University school of the arts"
-timeline = "2007 — 2008"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "SIM-RMIT, BA. Prof Comms"
+timeline = "2014 — 2015"
+description = "Due to module exemption, Hansel obtained the degree in a year. During this period, Hansel handled multiple advertising & PR projects for local companies."
 
 
 ############## Experience config ################
 #################################################
 [[experience]]
-title = "Web designer"
-timeline = "2010 — 2013"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Content Marketing Executive"
+timeline = "2017 — 2019"
+description = “In no more than 3 years, I have boosted Michael Trio’s social media presence, curated multiple branding and promotional videos, handled numerous collaborations and events, and even assisted in the rebranding of the company. On a daily basis, I create content that range from SEO-friendly articles, website content management - from the naming of all new product range, collections & descriptions, to informational pieces, company write-ups & press releases. I also oversee the SEO/SEM budget, and ensure that all content published meet our branding guidelines. ”
 
 [[experience]]
-title = "Art director"
-timeline = "2013 — 2015"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Copywriter, Content Writer"
+timeline = "2020 — 2020"
+description = “As a full-time copywriter for YY Circle, I have aided the company in the revamp of the content for their websites and lifestyle mobile application, while creating content for their social media pages and writing SEO-friendly articles as well. Being a part of the start-up culture, I also contribute heavily with other content production like videos, scripting and storyboarding, and even a little bit of 2D animation content with Premiere Pro.”
 
 [[experience]]
 title = "Creative director"
