@@ -3,30 +3,30 @@
 [[education]]
 title = "Republic Polytechnic, Dip. Mass Comm"
 timeline = "2009 — 2012"
-description = "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+description = "This was where Advertising, Branding, Copywriting and Design grew on Hansel. Hansel clinched first place for NYDC Restaurant's Advertising & Copywriting competition."
 
 [[education]]
 title = "SIM-RMIT, BA. Prof Comms"
 timeline = "2014 — 2015"
-description = "Due to module exemption, Hansel obtained the degree upgrade in a year. During this period, the final prototype handled multiple advertising & PR projects for local companies."
+description = "Due to module exemption, Hansel obtained the degree in a year. During this period, Hansel handled multiple advertising & PR projects for local companies."
 
 
 ############## Experience config ################
 #################################################
 [[experience]]
-title = "Web designer"
-timeline = "2010 — 2013"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Content Marketing Executive"
+timeline = "2017 — 2019"
+description = “In no more than 3 years, I have boosted Michael Trio’s social media presence, curated multiple branding and promotional videos, handled numerous collaborations and events, and even assisted in the rebranding of the company. On a daily basis, I create content that range from SEO-friendly articles, website content management - from the naming of all new product range, collections & descriptions, to informational pieces, company write-ups & press releases. I also oversee the SEO/SEM budget, and ensure that all content published meet our branding guidelines.”
 
 [[experience]]
-title = "Art director"
-timeline = "2013 — 2015"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Copywriter, Content Writer"
+timeline = "2020 — 2020"
+description = “As a full-time copywriter for YY Circle, I have aided the company in the revamp of the content for their websites and lifestyle mobile application, while creating content for their social media pages and writing SEO-friendly articles as well. Being a part of the start-up culture, I also contribute heavily with other content production like videos, scripting and storyboarding, and even a little bit of 2D animation content with Premiere Pro.”
 
 [[experience]]
-title = "Creative director"
-timeline = "2015 — Present"
-description = "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+title = "Marketing Content Copywriter & Designer"
+timeline = "2020 — 2022"
+description = "At KooBits, a fast-growing EdTech start-up, my role covers the creation of landing pages and advertising visuals to boost customer acquisition. From handling simple html and CSS, to crafting copies and images for Facebook and Google ads, I got to fulfil my passion for content creation. About three months in, I was given the opportunity to take up the role of Digital Ads Manager, where I got to dive deeper into the world of performance marketing."
 
 
 ############## Skills config ####################
@@ -38,19 +38,19 @@ show_bar = true
 show_value = true
 
 [[skill]]
-title = "Web design"
+title = "Marketing & Copywriting"
 value = "80%"
 
 [[skill]]
-title = "Graphic design"
+title = "Branding & Design"
 value = "70%"
 
 [[skill]]
-title = "Branding"
+title = "Content Creation & Strategy"
 value = "90%"
 
 [[skill]]
-title = "WordPress"
+title = "Frontend HTML/CSS"
 value = "50%"
 
 ############## Language config ##################
@@ -62,9 +62,9 @@ show_bar = true
 show_value = true
 
 [[language]]
-title = "Ingles"
-value = "60%"
+title = "English"
+value = "90%"
 
 [[language]]
-title = "French"
-value = "50%"
+title = "Mandarin"
+value = "70%"
