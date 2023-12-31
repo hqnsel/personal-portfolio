@@ -47,28 +47,28 @@ image = "https://i.imgur.com/9Y4yLd0.jpg"
 url = "https://www.youtube.com/watch?v=Iyxdd8kUhJU"
 
 [[project]]
-title = "Brawlhalla"
-category = "Applications"
-image = "./config/assets/projects/project-4.png"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
+title = "Tiktok 300K Views"
+category = "Storyboarding"
+image = "https://i.imgur.com/fNAM5hA.jpg"
+url = "https://www.tiktok.com/@yycircle/video/6910127833696275714"
 
 [[project]]
-title = "DSM."
-category = "Web design"
-image = "./config/assets/projects/project-5.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+title = "KooBits Media Post"
+category = "Digital Marketing"
+image = "https://scontent.fsin15-2.fna.fbcdn.net/v/t39.30808-6/216948668_4159803487436497_8657213716922078319_n.png?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=WZcG79daeMgAX9sJGpg&_nc_ht=scontent.fsin15-2.fna&oh=00_AfAB0bENvqTMz57Nz5vJsB_NY7m-2Pqg5ubwSs-QOTc6fA&oe=6596C580g"
+url = "https://www.facebook.com/KooBits/photos/pb.100064322186659.-2207520000/4159803480769831/?type=3"
 
 [[project]]
-title = "MetaSpark"
-category = "Web design"
-image = "./config/assets/projects/project-6.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+title = "KooBits Ad Post"
+category = "Digital Marketing"
+image = "https://i.imgur.com/FpsQQVi.jpg"
+url = "https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=SG&id=361707445227805&media_type=all"
 
 [[project]]
-title = "Summary"
-category = "Web development"
-image = "./config/assets/projects/project-7.png"
-url = "https://github.com/ivansaul/codigo_facilito_downloader"
+title = "Retargeting Ad Campaign"
+category = "Landing Page Design"
+image = "https://i.imgur.com/VGmEPNG.jpg"
+url = "https://www.koobits.com/math?k21t=facebook&utm_source=facebook&utm_medium=cpc&utm_campaign=ftretargeting&utm_content=testgirl"
 
 [[project]]
 title = "Task Manager"
