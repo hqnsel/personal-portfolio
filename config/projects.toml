@@ -71,13 +71,7 @@ image = "https://i.imgur.com/VGmEPNG.jpg"
 url = "https://www.koobits.com/math?k21t=facebook&utm_source=facebook&utm_medium=cpc&utm_campaign=ftretargeting&utm_content=testgirl"
 
 [[project]]
-title = "Task Manager"
-category = "Applications"
-image = "./config/assets/projects/project-8.jpg"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
-
-[[project]]
-title = "Arrival"
-category = "Web development"
-image = "./config/assets/projects/project-9.png"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+title = "YY Food Series"
+category = "Storyboarding"
+image = "https://i.imgur.com/KYfbLfM.jpg"
+url = "https://www.youtube.com/watch?v=ufB9wZLRvgQ"
