@@ -35,16 +35,16 @@ image = "https://scontent.fsin15-1.fna.fbcdn.net/v/t1.6435-9/60015583_2186368204
 url = "https://web.archive.org/web/20200927091756/https://www.michaeltrio.com/blog/this-homegrown-custom-jewellery-brand-is-opening-its-second-store-in-the-heartlands/"
 
 [[project]]
-title = "Orizon"
-category = "Web development"
-image = "./config/assets/projects/project-2.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+title = "Brand Video"
+category = "Storyboarding"
+image = "https://i.imgur.com/AnDyl6r.jpg"
+url = "https://www.youtube.com/watch?v=2Wru9DZkbPA"
 
 [[project]]
-title = "Fundo"
-category = "Web design"
-image = "./config/assets/projects/project-3.jpg"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+title = "Love & Differences"
+category = "Storyboarding"
+image = "https://i.imgur.com/9Y4yLd0.jpg"
+url = "https://www.youtube.com/watch?v=Iyxdd8kUhJU"
 
 [[project]]
 title = "Brawlhalla"
