@@ -6,21 +6,21 @@ enabled = true # false
 ################ Skills #########################
 #################################################
 [[skills]]
-title = "Fast Learner"
+title = "High Adaptability"
 icon = "./config/assets/icons/bolt.svg"
-text = "I have the ability to quickly acquire new knowledge and adapt to changing technological environments."
+text = "I have the ability to quickly acquire new knowledge and adapt to changing environments."
 
 [[skills]]
-title = "Teamwork"
+title = "Team Player"
 icon = "./config/assets/icons/user.svg"
 text = "I collaborate effectively in multidisciplinary projects and communicate clearly with team members."
 
 [[skills]]
-title = "Problem Solving"
+title = "Innovative"
 icon = "./config/assets/icons/gear.svg"
-text = "I am creative and efficient in identifying and solving technical problems."
+text = "With Hansel, being creative isn’t enough - creating fresh content and unique experiences to invoke emotions is the new currency."
 
 [[skills]]
-title = "Effective Communication"
+title = "Intuitive"
 icon = "./config/assets/icons/comment.svg"
-text = "I have the skill to convey ideas clearly and concisely, both technically and non-technically."
+text = "Hansel is a combination of quick-wit, target audience comprehension and a driven initiative."
