@@ -1,6 +1,6 @@
 ############### Section config ##################
 #################################################
-title = "Soft Skills"
+title = "Competence"
 enabled = true # false
 
 ################ Skills #########################
@@ -11,6 +11,11 @@ icon = "./config/assets/icons/bolt.svg"
 text = "I have the ability to quickly acquire new knowledge and adapt to changing environments."
 
 [[skills]]
+title = "Intuitive"
+icon = "./config/assets/icons/comment.svg"
+text = "Hansel is a combination of quick-wit, target audience comprehension and a driven initiative."
+
+[[skills]]
 title = "Team Player"
 icon = "./config/assets/icons/user.svg"
 text = "I collaborate effectively in multidisciplinary projects and communicate clearly with team members."
@@ -19,8 +24,3 @@ text = "I collaborate effectively in multidisciplinary projects and communicate 
 title = "Innovative"
 icon = "./config/assets/icons/gear.svg"
 text = "With Hansel, being creative isn’t enough - creating fresh content and unique experiences to invoke emotions is the new currency."
-
-[[skills]]
-title = "Intuitive"
-icon = "./config/assets/icons/comment.svg"
-text = "Hansel is a combination of quick-wit, target audience comprehension and a driven initiative."
