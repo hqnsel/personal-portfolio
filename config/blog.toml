@@ -1,7 +1,7 @@
 [[post]]
 category = "Tech"
 title = "AR Long Before VR"
-subtitle = "Why I Believe Augmented Reality Will Thrive For Longer Before We Transcend to Virtual Realm"
+subtitle = "Why I believe Augmented Reality will thrive for longer before we transcend to virtual realm"
 datetime = "2022-09-06"
 image = "https://blog.hqnsel.com/wp-content/uploads/2024/09/ar_vs_vr.jpeg"
 url = "https://blog.hqnsel.com/ar-before-vr/"
@@ -17,30 +17,30 @@ url = "https://blog.hqnsel.com/automation-nation/"
 [[post]]
 category = "Startup"
 title = "Everyone’s A Dev Now, Without Growth"
-subtitle = "Narratives are the new USPs, and Trends are the new MVPs"
+subtitle = "Narratives are the new USPs, and Trends are the new MVPs - marketability is everything"
 datetime = "2023-09-09"
 image = "https://blog.hqnsel.com/wp-content/uploads/2024/09/genai_m4_ncg_odn_v3_upload_img_84089126_09_09_2024_02_05_29_428589_3721032089966373726.jpeg"
 url = "https://blog.hqnsel.com/everyones-a-dev-now-without-growth/"
 
 [[post]]
-category = "Design"
-title = "UI interactions of the week"
-subtitle = "Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi"
+category = "Marketing"
+title = "Another Free PDF Guide Blueprint Course Newsletter?"
+subtitle = "Knowing what sets your brand apart from the 'freebies' and 'genuine impactful value'"
 datetime = "2022-02-23"
 image = "./config/assets/posts/blog-4.jpg"
 url = "https://ivansaul.netlify.app/posts/programming/quarto/using_python_in_quarto.html"
 
 [[post]]
-category = "Design"
-title = "The Forgotten Art Of Spacing"
-subtitle = "Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+category = "Growth"
+title = "How I Grew Lobbie with Just 9 Instagram Posts"
+subtitle = "All it took was a Manychat alternative that costs a fraction for a lifetime value"
 datetime = "2022-02-23"
 image = "./config/assets/posts/blog-5.jpg"
 url = "https://ivansaul.netlify.app/posts/programming/quarto/using_python_in_quarto.html"
 
 [[post]]
-category = "Design"
-title = "Design Digest #79"
+category = "Startup"
+title = "My First Attempt At Building & Launching A SaaS "
 subtitle = "Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum"
 datetime = "2022-02-23"
 image = "./config/assets/posts/blog-6.jpg"
