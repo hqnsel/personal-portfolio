@@ -1,5 +1,5 @@
 [[post]]
-category = "Design"
+category = "Tech"
 title = "AR Long Before VR"
 subtitle = "Why I Believe Augmented Reality Will Thrive For Longer Before We Transcend to Virtual Realm"
 datetime = "2022-09-06"
@@ -7,20 +7,20 @@ image = "https://blog.hqnsel.com/wp-content/uploads/2024/09/ar_vs_vr.jpeg"
 url = "https://blog.hqnsel.com/ar-before-vr/"
 
 [[post]]
-category = "Design"
-title = "Best fonts every designer"
-subtitle = "Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi"
-datetime = "2022-02-23"
-image = "./config/assets/posts/blog-2.jpg"
-url = "https://ivansaul.netlify.app/posts/programming/quarto/using_python_in_quarto.html"
+category = "Innovation"
+title = "Road to Automation Nation"
+subtitle = "Enter the world of semi-automation for heightened productivity and shorten work cycles"
+datetime = "2023-02-07"
+image = "https://blog.hqnsel.com/wp-content/uploads/2024/09/upload_img_69367235_09_06_2024_23_38_30_710687_7827936412119342329.jpeg"
+url = "https://blog.hqnsel.com/automation-nation/"
 
 [[post]]
-category = "Design"
-title = "Design digest #80"
-subtitle = "Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit"
-datetime = "2022-02-23"
-image = "./config/assets/posts/blog-3.jpg"
-url = "https://ivansaul.netlify.app/posts/programming/quarto/using_python_in_quarto.html"
+category = "Startup"
+title = "Everyone’s A Dev Now, Without Growth"
+subtitle = "Narratives are the new USPs, and Trends are the new MVPs"
+datetime = "2023-09-09"
+image = "https://blog.hqnsel.com/wp-content/uploads/2024/09/genai_m4_ncg_odn_v3_upload_img_84089126_09_09_2024_02_05_29_428589_3721032089966373726.jpeg"
+url = "https://blog.hqnsel.com/everyones-a-dev-now-without-growth/"
 
 [[post]]
 category = "Design"
