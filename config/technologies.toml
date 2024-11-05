@@ -9,7 +9,7 @@ enabled = true # false
 # name = "./.../../icon_path"
 [technologies]
 python = "./config/assets/icons/python.svg"
-facebook = "./config/assets/icons/facebook-color.svg"
+facebook = "./config/assets/icons/facebook.svg"
 git = "./config/assets/icons/git.svg"
 figma = "./config/assets/icons/figma.svg"
 firebase = "./config/assets/icons/firebase.svg"
