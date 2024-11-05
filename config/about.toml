@@ -4,6 +4,7 @@ email = "admin@hqnsel.com"
 phone = "+65 9154 3217"
 birthday = "May, 1991"
 location = "Sunny Singapore"
+=======
 avatar = "./config/assets/avatars/my-avatar.png"
 username = "hqnsel" # <-- github user name
 googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255281.22504611858!2d103.84425004999999!3d1.31400005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11238a8b9375%3A0x887869cf52abf5c4!2sSingapore!5e0!3m2!1sen!2ssg!4v1703815771452!5m2!1sen!2ssg" 

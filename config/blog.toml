@@ -21,6 +21,7 @@ subtitle = "Narratives are the new USPs, and Trends are the new MVPs - marketabi
 datetime = "2023-09-09"
 image = "https://blog.hqnsel.com/wp-content/uploads/2024/09/genai_m4_ncg_odn_v3_upload_img_84089126_09_09_2024_02_05_29_428589_3721032089966373726.jpeg"
 url = "https://blog.hqnsel.com/everyones-a-dev-now-without-growth/"
+=======
 
 [[post]]
 category = "Marketing"
@@ -28,7 +29,7 @@ title = "Another Free PDF Guide Blueprint Course Newsletter?"
 subtitle = "Knowing what sets your brand apart from the 'freebies' and 'genuine impactful value'"
 datetime = "2022-02-23"
 image = "./config/assets/posts/blog-4.jpg"
-url = "https://ivansaul.netlify.app/posts/programming/quarto/using_python_in_quarto.html"
+url = "https://dev.to"
 
 [[post]]
 category = "Growth"
@@ -36,7 +37,7 @@ title = "How I Grew Lobbie with Just 9 Instagram Posts"
 subtitle = "All it took was a Manychat alternative that costs a fraction for a lifetime value"
 datetime = "2022-02-23"
 image = "./config/assets/posts/blog-5.jpg"
-url = "https://ivansaul.netlify.app/posts/programming/quarto/using_python_in_quarto.html"
+url = "https://medium.com"
 
 [[post]]
 category = "Startup"
@@ -44,4 +45,4 @@ title = "My First Attempt At Building & Launching A SaaS "
 subtitle = "Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum"
 datetime = "2022-02-23"
 image = "./config/assets/posts/blog-6.jpg"
-url = "https://ivansaul.netlify.app/posts/programming/quarto/using_python_in_quarto.html"
+url = "https://hashnode.com"
